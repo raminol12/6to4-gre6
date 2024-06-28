@@ -11,7 +11,7 @@ https://github.com/HamedAp/Ssh-User-management
 <p dir="auto">بعد از وارد کردن دستور در ترمینال از شما آ پی سرور خارج و ایران سوال خواهد شد .</p>
 <br><br>
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="bash &lt;(curl -Ls https://raw.githubusercontent.com/HamedAp/Ssh-User-management/master/install.sh --ipv4)"><pre class="notranslate"><code>bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tir.sh --ipv4)
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tir.sh --ipv4)"><pre class="notranslate"><code>bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tir.sh --ipv4)
 </code></pre></div>
 
 
@@ -23,7 +23,7 @@ https://github.com/HamedAp/Ssh-User-management
 <p dir="auto">بعد از وارد کردن دستور در ترمینال از شما آ پی سرور خارج و ایران سوال خواهد شد .</p>
 <br><br>
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="bash &lt;(curl -Ls https://raw.githubusercontent.com/HamedAp/Ssh-User-management/master/tkh.sh --ipv4)"><pre class="notranslate"><code>bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tir.sh --ipv4)
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tkh.sh --ipv4)"><pre class="notranslate"><code>bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tkh.sh --ipv4)
 </code></pre></div>
 
 
