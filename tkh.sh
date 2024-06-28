@@ -1,5 +1,5 @@
 #!/bin/bash
-# By HamedAp
+# By Ramin-HamedAp
 
 printshahan() {
     text="$1"
@@ -12,7 +12,7 @@ printshahan() {
 }
 clear
 echo ""
-printshahan "ShaHaN Panel Tunnel Command 2  :) By HamedAp" 0.05
+printshahan "Your Panel Tunnel Command 2  :) By Ramin-HamedAp" 0.05
 echo ""
 echo ""
 printshahan "Please Wait . . ." 0.05
