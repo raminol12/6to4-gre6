@@ -41,7 +41,10 @@ https://t.me/panel2panel
 <br>
 <br>
 <br>
-<p dir="auto">بعد از وارد کردن دستور در ترمینال از شما آ پی سرور خارج و ایران سوال خواهد شد .</p>
+<br>
+<p dir="auto">سرور خارج رو خودش نشون میده یک اینتر میزنید و بعد سرور ایران رو بصورت دستی وارد میکنید</p>
+<br>
+<p dir="auto">بعد از وارد کردن دستور در ترمینال از شما آی پی سرور خارج و ایران سوال خواهد شد .</p>
 <br><br>
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tkh.sh --ipv4)"><pre class="notranslate"><code>bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tkh.sh --ipv4)
